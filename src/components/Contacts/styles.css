@@ -1,0 +1,42 @@
+.contacts-phone {
+    width: 90%;
+    background-color: #262626;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.contacts-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.contacts-groups {
+    color: #0075FF;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.contacts-heading {
+    font-weight: bold;
+}
+
+.search-input {
+    background-color: rgb(143, 138, 138);
+    border-radius: 5px;
+    cursor: pointer;
+    width: 45%;
+}
+
+.search-input::placeholder{
+    color: lightgrey;
+}
+
+.contacts-list{
+    padding: 0;
+}
