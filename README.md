@@ -4,4 +4,4 @@ In this SPA I practice React Router. I added main, feed, photo and contacts rout
 
 ## How to run
 
-Use [this link](https://margaretkulinich.github.io/contacts) to run the app.
+Use [this link](https://margaretkulinich.github.io/react-router-spa/) to run the app.
